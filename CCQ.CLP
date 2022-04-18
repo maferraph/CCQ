@@ -1,0 +1,16 @@
+ccq.prg
+funcoes.prg
+vis_lam.prg
+menubd.prg
+cq_lam.prg
+cq_forj.prg
+cq_val.prg
+cq_conex.prg
+cq_emit.prg
+cq_int.prg
+corridas.prg
+cq_valv.prg
+cq_manu.prg
+conf.prg
+diversos.prg
+cfg_nome.prg
